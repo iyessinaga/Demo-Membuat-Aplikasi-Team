@@ -8,3 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Volunter
 --
 Berikut adalah daftar volunter yang sudah terdaftar dalam GitHub
+- Christiano Sinaga, [LinkedIn](https://www.linkedin.com/in/christiano-sinaga-22a6a828a/)
